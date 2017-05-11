@@ -21,8 +21,8 @@
 	<?php wp_head(); ?>
 </head>
 
-<body <?php body_class(); ?>>
-fsdkjfklsdjflkjsdlfjlsdjl 
+<body <?php body_class(); ?>>   
+fsdkjfklsdjflkjsdlfjlsdjl    dfd
 <div id="page" class="site">
 	<div class="site-inner">
 		<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentysixteen' ); ?></a>
